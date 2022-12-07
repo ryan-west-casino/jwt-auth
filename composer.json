@@ -21,13 +21,13 @@
     ],
     "require": {
         "php": "^8.0|^8.1",
-        "illuminate/support": "*",
-        "illuminate/http": "*",
+        "illuminate/support": "^8",
+        "illuminate/http": "^8",
         "namshi/jose": "*",
         "nesbot/carbon": "~1.0"
     },
     "require-dev": {
-        "illuminate/auth": "~5.0",
+        "illuminate/auth": "*",
         "illuminate/database": "*",
         "illuminate/console" : "*"
     },
